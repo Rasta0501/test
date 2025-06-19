@@ -1,0 +1,7 @@
+payload:
+  - PROCESS-NAME,SGBizLauncher.exe
+  - PROCESS-NAME,SGMyInput.exe
+  - PROCESS-NAME,SGTool.exe
+  - PROCESS-NAME,SGWebRender.exe
+  - PROCESS-NAME,SogouExe.exe
+  - PROCESS-NAME,SogouSvc.exe

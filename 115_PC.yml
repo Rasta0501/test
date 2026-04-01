@@ -1,0 +1,9 @@
+payload:  
+  - PROCESS-NAME,115chrome.exe
+  - PROCESS-NAME,115FixBrowser.exe
+  - PROCESS-NAME,chrome_proxy.exe
+  - PROCESS-NAME,115capture.exe
+  - PROCESS-NAME,115search.exe
+  - PROCESS-NAME,chrome_pwa_launcher.exe
+  - PROCESS-NAME,notification_helper.exe
+  - PROCESS-NAME,115Player.exe

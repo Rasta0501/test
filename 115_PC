@@ -1,0 +1,9 @@
+payload:  
+  - PROCESS-NAME,115chrome.exe,中国
+  - PROCESS-NAME,115FixBrowser.exe,中国
+  - PROCESS-NAME,chrome_proxy.exe,中国
+  - PROCESS-NAME,115capture.exe,中国
+  - PROCESS-NAME,115search.exe,中国
+  - PROCESS-NAME,chrome_pwa_launcher.exe,中国
+  - PROCESS-NAME,notification_helper.exe,中国
+  - PROCESS-NAME,115Player.exe,中国

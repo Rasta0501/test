@@ -34,7 +34,6 @@ payload:
   - PROCESS-NAME,Warcraft III.exe
   - PROCESS-NAME,Wave.exe
   - PROCESS-NAME,wow_helper.exe
-  - PROCESS-NAME,wow_helper.exe
   - PROCESS-NAME,ydhost.exe
   - PROCESS-NAME,YiYiBrowser.exe
   - PROCESS-NAME,YiYiBrowser_x.exe
